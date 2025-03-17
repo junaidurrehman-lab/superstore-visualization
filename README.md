@@ -18,5 +18,3 @@ The repository contains the following components:
   *  Power BI project file (.pbix) containing the interactive reports with three pages: sales performance, customer analysis, and product analysis.
 
 The project demonstrates proficiency in data cleaning, SQL querying, and data visualization using Power BI. The interactive reports provide valuable insights into sales performance, customer behavior, and product analysis, facilitating informed decision-making.
-
-Feel free to explore the project, use the provided scripts and queries, and adapt the analysis to your own datasets. The repository is open for contributions, suggestions, and improvements to enhance the Superstore Sales Analysis.
